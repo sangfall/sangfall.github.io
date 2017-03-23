@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>桑落</title>
+  <title>静书斋</title>
   <subtitle>让浮躁的心在文字中获得平静</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -9,7 +9,7 @@
   <id>http://xuxiuxiang.com/</id>
   
   <author>
-    <name>sangfall</name>
+    <name>桑落</name>
     
   </author>
   
