@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xuxiuxiang.com/2017/03/21/hello-world/</loc>
+    
+    <lastmod>2017-03-27T09:27:26.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://xuxiuxiang.com/tags/index.html</loc>
     
     <lastmod>2017-03-27T06:25:46.000Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://xuxiuxiang.com/404.html</loc>
     
     <lastmod>2017-03-24T03:00:45.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xuxiuxiang.com/2017/03/21/hello-world/</loc>
-    
-    <lastmod>2017-03-24T02:56:13.000Z</lastmod>
     
   </url>
   
