@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title><![CDATA[Hexo教程]]></title>
+      <url>%2F2017%2F03%2F31%2FHexo%E6%95%99%E7%A8%8B%2F</url>
+      <content type="text"><![CDATA[使用Hexo搭建博客这是一篇个人搭建博客过程中的经验总结。 安装系统环境 Windows 7 64bit编辑器 VS Code Git安装Git for windows，一路next，不再赘述。Tips：如下图勾选项，可集成GitBash到cmd，不用再打开GitBash啦。 Node.js安装node.js]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F03%2F21%2Fhello-world%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+  
+  
+</search>
