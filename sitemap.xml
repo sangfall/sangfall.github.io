@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xuxiuxiang.com/2017/03/31/Hexo%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://xuxiuxiang.com/about/index.html</loc>
     
-    <lastmod>2017-04-07T07:54:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xuxiuxiang.com/2017/03/21/hello-world/</loc>
-    
-    <lastmod>2017-03-27T09:27:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xuxiuxiang.com/tags/index.html</loc>
-    
-    <lastmod>2017-03-27T06:25:46.000Z</lastmod>
+    <lastmod>2017-05-18T07:29:53.521Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://xuxiuxiang.com/categories/index.html</loc>
     
-    <lastmod>2017-03-27T06:25:38.000Z</lastmod>
+    <lastmod>2017-05-18T07:29:26.873Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xuxiuxiang.com/tags/index.html</loc>
+    
+    <lastmod>2017-05-18T07:29:06.889Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xuxiuxiang.com/2017/03/31/Hexo%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2017-05-16T09:17:30.344Z</lastmod>
     
   </url>
   
@@ -33,13 +33,6 @@
     <loc>http://xuxiuxiang.com/404.html</loc>
     
     <lastmod>2017-03-24T03:00:45.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xuxiuxiang.com/about/index.html</loc>
-    
-    <lastmod>2017-03-23T10:14:31.705Z</lastmod>
     
   </url>
   
